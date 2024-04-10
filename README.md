@@ -7,7 +7,7 @@ Doge Unblocker is a lightning-fast web proxy designed for performance and stealt
 - Clickoff Cloaking
 - Automatic URL Cloaking
 - Customizable/Personalization features
-- Access settings easily (right-click)
+- stupix sdvsdx
 - Authentication
 - Extremely clean UI
 - A powerful web proxy
